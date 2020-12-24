@@ -1,0 +1,32 @@
+plants.png: CC-BY-SA 3.0 by Daniel Eddeland via OpenGameArt.Org: https://opengameart.org/content/lpc-farming-tilesets-magic-animations-and-ui-elements
+
+scrollsandblocks.png: CC-BY-SA 3.0 by Daniel Eddeland via OpenGameArt.Org: https://opengameart.org/content/lpc-farming-tilesets-magic-animations-and-ui-elements
+
+plowed_soil.png: CC-BY-SA 3.0 by Daniel Eddeland via OpenGameArt.Org: https://opengameart.org/content/lpc-farming-tilesets-magic-animations-and-ui-elements
+
+forest_tiles: CC-BY-SA 3.0 by Reemax: https://opengameart.org/content/lpc-forest-tiles
+
+wood_tileset.png: CC-BY-SA 3.0 by Zabin: https://opengameart.org/content/2d-lost-garden-tileset-transition-to-jetrels-wood-tileset
+
+crops.png: CC-BY-SA 3.0 by bluecarrot16 via : https://opengameart.org/content/lpc-crops
+
+terrain_atlas.png: CC-BY-SA 3.0 submitted by adrix89 via OpenGameArt.Org: https://opengameart.org/content/lpc-tile-atlas
+
+mountain-landscape.png: CC-BY-SA 3.0 by Zabin via OpenGameArt.Org: https://opengameart.org/content/2d-lost-garden-zelda-style-tiles-resized-to-32x32-with-additions
+
+wheat.png: CC-BY-SA 3.0 submitted by daneeklu via OpenGameArt.Org: https://opengameart.org/content/lpc-farming-tilesets-magic-animations-and-ui-elements
+
+fence.png: CC-BY-SA 3.0 submitted by daneeklu via OpenGameArt.Org: https://opengameart.org/content/lpc-farming-tilesets-magic-animations-and-ui-elements
+
+beds.png: CC-BY-SA 3.0 by AntumDeluge via OpenGameArt.Org: https://opengameart.org/content/beds
+
+wheat.png: CC-BY-SA 3.0 by Zabin via OpenGameArt.Org: https://opengameart.org/content/lpc-farming-tilesets-magic-animations-and-ui-elements
+
+PathAndObjects.png: CC-BY-SA 3.0 by Zabin  via OpenGameArt.Org: https://opengameart.org/content/rpg-tiles-cobble-stone-paths-town-objects
+
+height64_trees_mega_pack_cc_by_3_0.png: CC-BY-SA 3.0 submitted by rrexky via OpenGameArt.Org: https://opengameart.org/content/trees-mega-pack-cc-by-30-0
+
+signpost-outsidestuff.png by Reemax  via OpenGameArt.Org: https://opengameart.org/content/lpc-signposts-graves-line-cloths-and-scare-crow
+
+Woodland_Village.png + Woodland_Villagex2.png by Stefan Beller via OpenGameArt: https://opengameart.org/content/the-mana-world-woodland-outdoor
+
