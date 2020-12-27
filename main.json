@@ -3,7 +3,8 @@
     {
      "export":
         {
-         "format":"json"
+         "format":"json",
+         "target":"."
         }
     },
  "height":67,
@@ -259,7 +260,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"oio.social"
+                 "value":"{<oio>\/main.json}"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -277,7 +278,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"tba"
+                 "value":"{<lobby>\/maps\/generic-tech.json#start_open-source-gardens}"
                 }],
          "type":"tilelayer",
          "visible":true,
