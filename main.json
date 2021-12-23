@@ -309,7 +309,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{world:\/\/afoio\/main.json#opensourcegardens}"
+                 "value":"world:\/\/afoio\/main.json#opensourcegardens"
                 }],
          "type":"tilelayer",
          "visible":true,
