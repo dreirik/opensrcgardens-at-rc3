@@ -309,7 +309,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{world:\/\/<afoio>\/main.json}"
+                 "value":"{world:\/\/afoio\/main.json#opensourcegardens}"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -327,7 +327,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{world:\/\/<lounge>\/main.json#start_open-source-gardens}"
+                 "value":"{world:\/\/lounge\/main.json#start_open-source-gardens}"
                 }],
          "type":"tilelayer",
          "visible":true,
