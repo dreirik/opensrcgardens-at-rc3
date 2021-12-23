@@ -278,7 +278,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{world://<lounge>/main.json}"
+                 "value":"{world://<lounge>/main.json#start_open-source-gardens}"
                 }],
          "type":"tilelayer",
          "visible":true,
