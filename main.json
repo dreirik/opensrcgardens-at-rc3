@@ -260,7 +260,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{world://<afoio>/main.json}"
+                 "value":"{world:\/\/<afoio>\/main.json}"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -278,7 +278,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{world://<lounge>/main.json#start_open-source-gardens}"
+                 "value":"{world:\/\/<lounge>\/main.json#start_open-source-gardens}"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -896,7 +896,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"URL"
+                 "value":"https:\/\/www.opensourcegardens.info\/rc3\/community-garden.html"
                 }],
          "type":"tilelayer",
          "visible":true,
