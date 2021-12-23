@@ -260,7 +260,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<af-oio>\/main.json}"
+                 "value":"{world://<afoio>/main.json}"
                 }],
          "type":"tilelayer",
          "visible":true,
