@@ -327,7 +327,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{world:\/\/lounge\/main.json#start_open-source-gardens}"
+                 "value":"world:\/\/lounge\/main.json#start_open-source-gardens"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1319,12 +1319,6 @@
          "name":"floorLayer",
          "objects":[],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"mapCopyright",
-                 "type":"string",
-                 "value":"CC-BY-SA 4.0 by Open Source Gardens"
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
